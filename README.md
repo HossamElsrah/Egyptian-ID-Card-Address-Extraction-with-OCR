@@ -1,4 +1,3 @@
-
 # Egyptian ID Card Address Extraction with OCR
 
 ## Project Overview
@@ -28,27 +27,6 @@ The project follows a standard OCR pipeline:
 * Python 3.x
 * A package manager like `pip`
 
-### Installation
-
-1.  Clone this repository:
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-2.  Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-
-To run the Gradio application and test the model:
-
-```bash
-python your_main_gradio_app_file.py
-````
-
-This will launch a web interface where you can upload an image.
 
 ## Potential Impact
 
@@ -59,7 +37,3 @@ This project has significant potential to **transform administrative tasks** in 
   * **Improve efficiency**: Frees up staff to focus on more complex tasks, enhancing overall productivity and service quality.
 
 This technology can also be integrated into mobile applications for quick verification or data capture, providing a more modern and streamlined experience for citizens and employees alike.
-
-
-```
-```
