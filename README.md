@@ -1,4 +1,4 @@
-تمام، ده ملف الـ `README.md` المطلوب:
+
 # Egyptian ID Card Address Extraction with OCR
 
 ## Project Overview
